@@ -1,4 +1,4 @@
-# flutter_finance_dark
+# bycost_flutter_app
 
 Finance App is a financial management app that helps users better track, manage and plan their finances. The app is designed for individuals and businesses who want to have more control over their finances.
 
