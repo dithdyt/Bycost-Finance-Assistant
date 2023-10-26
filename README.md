@@ -16,7 +16,7 @@ Contributions
 
 We welcome contributions from developers. If you would like to contribute to the development of this app, please go to CONTRIBUTING.md for guidance.
 
-### Warning
+### ! Warning !
 This application is still UI-based only, not yet integrated with API and Database.
 
 ### Licence
