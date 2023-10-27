@@ -19,5 +19,10 @@ We welcome contributions from developers. If you would like to contribute to the
 ### ! Warning !
 This application is still UI-based only, not yet integrated with API and Database.
 
+### Contact US
+If you have any questions or feedback, please feel free to contact our team at [aditataby@gmail.com].
+
+Thank you for using the Fasting App!
+
 ### Licence
-Finance App is licensed under the XYZ Licence. See LICENSE for more information.
+bycost is licensed under the XYZ Licence. See LICENSE for more information.
